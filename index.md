@@ -31,6 +31,8 @@ Problem Framing
 #### Part 3-4
 Activities/Lab
 * [Azure ML Studio - https://studio.azureml.net/](https://studio.azureml.net/)
+
+Datasets
 * [Google Dataset Search - https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
 * [OpenML Dataset Search - https://www.openml.org/search?type=data](https://www.openml.org/search?type=data)
 
