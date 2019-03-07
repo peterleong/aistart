@@ -22,6 +22,7 @@ Activities
 * [Convnetjs CIFAR10 Demo - http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 * [Reinforcement Learning Demo1 - https://cs.stanford.edu/people/karpathy/reinforcejs/index.html](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 * [Reinforcement Learning Demo2 - https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+
 Problem Framing
 * [Google ML Problem Framing - https://developers.google.com/machine-learning/problem-framing/](https://developers.google.com/machine-learning/problem-framing/)
 * [ML Canvas](http://www.louisdorard.com/ml-canvas/)
