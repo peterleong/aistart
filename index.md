@@ -6,6 +6,7 @@
 
 #### Part 1
 Activities
+* [Bubble Sort Algorithm Demo - https://www.toptal.com/developers/sorting-algorithms/bubble-sort](https://www.toptal.com/developers/sorting-algorithms/bubble-sort)
 * [Make Girls GAN Demo - http://make.girls.moe](http://make.girls.moe)
 * [IBM Watson Bear Naked Custom Granola - https://www.bearnakedcustom.com/BearNaked](https://www.bearnakedcustom.com/BearNaked)
 * [Deep Dream Generator - https://deepdreamgenerator.com/](https://deepdreamgenerator.com/)
