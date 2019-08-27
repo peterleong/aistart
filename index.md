@@ -3,7 +3,11 @@
 #### (Singapore Polytechnic)
 ---
 
+### Caveat
+* [AI companies not using AI](https://www.ft.com/content/21b19010-3e9f-11e9-b896-fe36ec32aece)
+* [AI humans](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)
 
+---
 #### Part 1
 Activities
 * [Bubble Sort Algorithm Demo - https://www.toptal.com/developers/sorting-algorithms/bubble-sort](https://www.toptal.com/developers/sorting-algorithms/bubble-sort)
