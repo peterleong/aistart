@@ -9,6 +9,9 @@
 
 ---
 #### Part 1
+* [Five Big Ideas in AI](https://bit.ly/ai4k12-five-big-ideas)
+* [Five Big Ideas in AI graphics](https://raw.githubusercontent.com/touretzkyds/ai4k12/master/documents/AI4K12_Five_Big_Ideas_Graphic.png)
+
 Activities
 * [Bubble Sort Algorithm Demo - https://www.toptal.com/developers/sorting-algorithms/bubble-sort](https://www.toptal.com/developers/sorting-algorithms/bubble-sort)
 * [Make Girls GAN Demo - http://make.girls.moe](http://make.girls.moe)
