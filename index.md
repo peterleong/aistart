@@ -35,6 +35,7 @@ Additional
 * [Build with AI:DeepAI.org - Super-resolution demo etc](https://deepai.org/)
 * [TensorFire demos](https://tenso.rs)
 * [AI Demos - Tensorflow.js](https://www.tensorflow.org/js/demos/)
+* [AI Demos - Archived Keras.js demos](https://transcranial.github.io/keras-js/)
 * [AI Demos - Google](https://experiments.withgoogle.com/collection/ai)
 * [AI Demos - Microsoft](https://aidemos.microsoft.com/)
 * [Pix2Pix Demo](https://affinelayer.com/pixsrv/)
