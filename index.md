@@ -31,6 +31,15 @@ Activities
 * [Reinforcement Learning Demo1 - https://cs.stanford.edu/people/karpathy/reinforcejs/index.html](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
 * [Reinforcement Learning Demo2 - https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 
+Additional
+* [Build with AI:DeepAI.org - Super-resolution demo etc](https://deepai.org/)
+* [TensorFire demos](https://tenso.rs)
+* [AI Demos - Tensorflow.js](https://www.tensorflow.org/js/demos/)
+* [AI Demos - Google](https://experiments.withgoogle.com/collection/ai)
+* [AI Demos - Microsoft](https://aidemos.microsoft.com/)
+* [Pix2Pix Demo](https://affinelayer.com/pixsrv/)
+* [Deep Fake](https://thispersondoesnotexist.com/)
+
 Problem Framing
 * [Google ML Problem Framing - https://developers.google.com/machine-learning/problem-framing/](https://developers.google.com/machine-learning/problem-framing/)
 * [ML Canvas](http://www.louisdorard.com/ml-canvas/)
