@@ -53,5 +53,7 @@ Activities/Lab
 Datasets
 * [Google Dataset Search - https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
 * [OpenML Dataset Search - https://www.openml.org/search?type=data](https://www.openml.org/search?type=data)
+* [UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/index.php](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
+
 
 
